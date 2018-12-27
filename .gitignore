@@ -1,0 +1,9 @@
+# 排除引用模块
+node_modules/
+
+# 排除vscode配置
+.vscode/
+
+# 排除单元测试覆盖率结果文件夹
+coverage/
+package-lock.json
