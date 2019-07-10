@@ -6,14 +6,6 @@ import Range from './Range';
  * 首页
  */
 class PageMain extends React.Component {
-
-  /**
-   * 开启涂鸦
-   */
-  enableDoodle = () => {
-
-  }
-
   /**
    * 添加下划线
    */
@@ -59,7 +51,6 @@ class PageMain extends React.Component {
         <div>
           <button onClick={this.enableNiteWriterPen}>荧光笔</button>
           <button onClick={this.addUnderline}>添加下划线</button>
-          <button onClick={this.enableDoodle}>涂鸦</button>
         </div>
         <p className={styles['content']}>
           <h3>《道德经》全文</h3>
