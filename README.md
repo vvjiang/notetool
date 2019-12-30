@@ -2,7 +2,7 @@
 
 已废弃，更换仓库地址为：
 
-https://gitee.com/wmvc/resizeDiv4React
+https://gitee.com/vvjiang/resizeDiv4React
 
 原文：
 
